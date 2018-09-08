@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="bonjour-betausersmessage.Text" xml:space="preserve">
-    <value>Con esta versión final, Serris Code Editor usa un nuevo sistema de pestañas, por lo que deberá volver a abrir sus archivos. ¡Herramientas como Serris Web Render o el creador de temas volverán pronto!</value>
+    <value>Con esta versión final, Serris Code Editor usa un nuevo sistema de pestañas, por lo que deberá volver a abrir sus archivos. ¡Herramientas como Serris Web Render o Temas Creador volverán pronto!</value>
   </data>
   <data name="bonjour-betauserswarning.Text" xml:space="preserve">
     <value>Para usuarios de SCE beta</value>
